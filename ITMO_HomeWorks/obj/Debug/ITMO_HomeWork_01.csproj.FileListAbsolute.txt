@@ -1,0 +1,6 @@
+D:\PiN_Code\CS\ITMO_HomeWorks\ITMO_HomeWorks\bin\Debug\ITMO_HomeWorks.dll
+D:\PiN_Code\CS\ITMO_HomeWorks\ITMO_HomeWorks\bin\Debug\ITMO_HomeWorks.pdb
+D:\PiN_Code\CS\ITMO_HomeWorks\ITMO_HomeWorks\obj\Debug\ITMO_HomeWork_01.csproj.AssemblyReference.cache
+D:\PiN_Code\CS\ITMO_HomeWorks\ITMO_HomeWorks\obj\Debug\ITMO_HomeWork_01.csproj.CoreCompileInputs.cache
+D:\PiN_Code\CS\ITMO_HomeWorks\ITMO_HomeWorks\obj\Debug\ITMO_HomeWorks.dll
+D:\PiN_Code\CS\ITMO_HomeWorks\ITMO_HomeWorks\obj\Debug\ITMO_HomeWorks.pdb

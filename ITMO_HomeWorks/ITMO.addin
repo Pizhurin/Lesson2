@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>ITMO_Lesson2_1</Name>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2022\ITMO\ITMO_HomeWorks.dll</Assembly>
+		<ClientId>F08677C2-7A17-482C-95FE-7E29B68F2659</ClientId>
+		<FullClassName>ITMO_HomeWorks.Lesson2_1</FullClassName>
+		<VendorId>PiN</VendorId>
+		<VendorDescription>pizhurin@yahoo.com</VendorDescription>
+		<Text>Задание2.1_Количество воздуховодов</Text>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>ITMO_Lesson2_2</Name>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2022\ITMO\ITMO_HomeWorks.dll</Assembly>
+		<ClientId>2B3D1DDF-6E5A-4373-900E-42E479135A76</ClientId>
+		<FullClassName>ITMO_HomeWorks.Lesson2_2</FullClassName>
+		<VendorId>PiN</VendorId>
+		<VendorDescription>pizhurin@yahoo.com</VendorDescription>
+		<Text>Задание2.2_Количество труб на активном виде</Text>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>ITMO_Lesson2_3</Name>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2022\ITMO\ITMO_HomeWorks.dll</Assembly>
+		<ClientId>8B5E7B74-46A3-4241-838D-BAE8B559E99F</ClientId>
+		<FullClassName>ITMO_HomeWorks.Lesson2_3</FullClassName>
+		<VendorId>PiN</VendorId>
+		<VendorDescription>pizhurin@yahoo.com</VendorDescription>
+		<Text>Задание2.3_Количество колонн в модели</Text>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>ITMO_Lesson2_4</Name>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2022\ITMO\ITMO_HomeWorks.dll</Assembly>
+		<ClientId>E02C4460-B337-4C69-AC5F-46B74C8FCCC8</ClientId>
+		<FullClassName>ITMO_HomeWorks.Lesson2_4</FullClassName>
+		<VendorId>PiN</VendorId>
+		<VendorDescription>pizhurin@yahoo.com</VendorDescription>
+		<Text>Задание2.4_Количество воздуховодов по этажам</Text>
+	</AddIn>
+</RevitAddIns>
